@@ -1,0 +1,3 @@
+# chatgpt
+
+openclash chatgpt rules
